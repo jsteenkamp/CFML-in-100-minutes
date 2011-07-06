@@ -20,6 +20,8 @@ russplaysguitar * [https://github.com/russplaysguitar/](https://github.com/russp
 
 Daniel Short (@danshort on twitter) * [http://www.dansshorts.com](http://www.dansshorts.com)
 
+Johan Steenkamp (@johanstn on twitter) * [http://www.orbital.co.nz](http://www.orbital.co.nz)
+
 ## Git Workflow for Contributors
 
 This project uses the excellent [Git Workflow series](http://www.silverwareconsulting.com/index.cfm/Git-Workflow) by [Bob Silverburg](https://github.com/bobsilverberg/) for contributions.
